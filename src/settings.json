@@ -1,0 +1,60 @@
+{
+  "components": [
+    {
+      "id": "BannerWithButton"
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Join A Community Where Innovation Meets Inspiration",
+        "title": "Yay: Ignite Your Technological Curiosity"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Join A Community Where Innovation Meets Inspiration",
+        "title": "Yay: Ignite Your Technological Curiosity"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Join A Community Where Innovation Meets Inspiration",
+        "title": "Yay: Ignite Your Technological Curiosity"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Join A Community Where Innovation Meets Inspiration",
+        "title": "Yay: Ignite Your Technological Curiosity"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Join A Community Where Innovation Meets Inspiration",
+        "title": "Yay: Ignite Your Technological Curiosity"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Join A Community Where Innovation Meets Inspiration",
+        "title": "Yay: Ignite Your Technological Curiosity"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Join A Community Where Innovation Meets Inspiration",
+        "title": "Yay: Ignite Your Technological Curiosity"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Ignite Your Technological Curiosity",
+  "subtitle": "Join A Community Where Innovation Meets Inspiration"
+}
